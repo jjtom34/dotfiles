@@ -1,0 +1,6 @@
+# CAEN
+Host jjtom
+    Hostname login.engin.umich.edu
+    User jjtom
+    Compression yes
+  
